@@ -1,1 +1,1 @@
-module github.com/reugn/go-quartz
+module github.com/windows1988/go-quartz
